@@ -1,1 +1,1 @@
-# demo
+# simple calculator demo project
